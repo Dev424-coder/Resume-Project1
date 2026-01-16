@@ -1,24 +1,20 @@
-Madhav Ecommerce Sales Dashboard
+Impact of Payment Type on Driver Revenue: Hypothesis Testing
+Analyzed how different payment types affect driver revenue using hypothesis testing in Python.
+Identified statistically significant payment methods to support data-driven revenue optimization decisions.
 
-Built an interactive ecommerce sales dashboard to track revenue, profit, and customer trends.
-Performed data cleaning and analysis using SQL and visualized insights using Power BI.
+Evaluating Marketing Campaign Effectiveness Using A/B Testing 
+Conducted A/B testing to compare marketing campaign variants and measure impact on conversion and revenue.
+Analyzed results using statistical methods to recommend the most effective campaign strategy.
 
-Hypothesis Testing (Maximizing Revenue)
+Hotel Booking Analysis Using Python  
+Conducted end to end analysis of hotel booking data using Python to understand seasonality, customer segments, and cancellations. 
+Delivered insights to improve operational and revenue decisions.                                                                            
 
-Analyzed business data to test hypotheses aimed at revenue optimization.
-Used Python for data analysis, statistical testing, and insight generation.
+Airlines Analysis
+Conducted end to end airline data analysis using Python to evaluate delays, traffic patterns, and operational performance. 
+Delivered insights to support efficiency and customer experience improvements.    
 
-Hotel Booking Analysis
-
-Analyzed hotel booking data to identify cancellation patterns and customer behavior.
-Used Python for data cleaning, EDA, and visual insights.
-
-Airlines Data Analysis
-
-Performed exploratory data analysis on airline operations to understand delays and performance trends.
-Used Python, Pandas, and Matplotlib for analysis and visualization.
-
-A/B Testing Project
-
-Conducted A/B testing to compare user behavior and measure impact on conversion metrics.
-Used Python for statistical analysis and result interpretation.
+Madhav E-Commerce Sales Dashboard Using Power BI, SQL
+Built an end-to-end eCommerce sales dashboard using Power BI with SQL-based data processing.
+Analyzed sales trends, profitability, and customer behavior to support business decisions.
+ 
